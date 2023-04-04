@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
     <style>
       body {
         background-image: url("BackgroundPitch.jpg");
@@ -9,13 +14,9 @@
         background-size: 100% 100%;
       }
     </style>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="popup.css" />
-  </head>
-  <body>
     <div class="container">
-      <img src="logo1NoBG.png" alt="Logo" class="logo" />
+      <img src="logo1NoBG.png" alt="Logo" id="logo" />
+      <h2>Fantasy Assistant</h2>
       <input type="text" id="search" placeholder="Search player" />
       <div id="results"></div>
     </div>
