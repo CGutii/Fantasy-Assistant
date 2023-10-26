@@ -43,5 +43,3 @@ That's it! You should now see the extension icon in your browser toolbar.
 
 ---
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
