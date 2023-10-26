@@ -32,3 +32,16 @@ The main goal of this extension is to offer a convenient way for FPL managers to
 
 ### Steps
 1. Clone this repository to your local machine.
+2. Open your browser and navigate to:
+- For Google Chrome: `chrome://extensions/`
+- For Microsoft Edge: `edge://extensions/`
+
+3. Enable "Developer Mode" in the top-right corner.
+4. Click "Load unpacked" and select the directory where you cloned the repository, specifically the folder containing the `manifest.json` file.
+
+That's it! You should now see the extension icon in your browser toolbar.
+
+---
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
